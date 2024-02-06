@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace Uppgift_7_5
 {
     class Program
